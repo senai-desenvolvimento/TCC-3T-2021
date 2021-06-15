@@ -5,7 +5,7 @@ Criar um Sistema para gerenciar o patrimônio de uma escola.(backend, web e/ou m
 
 Fazer um fork no repositório do github:
 
-https://github.com/senai-desenvolvimento/projeto-individual-3t
+https://github.com/senai-desenvolvimento/TCC-3T-2021
 
 ## Cadastro de Sala
   
